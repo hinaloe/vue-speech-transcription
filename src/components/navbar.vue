@@ -10,7 +10,7 @@
     </div>
     <div class="navbar-menu"  :class="{'is-active': menu}">
       <div class="navbar-end">
-        <a class="navbar-item" href="#"><icon name="github" scale="1.5"/> github</a>
+        <a class="navbar-item" href="https://github.com/hinaloe/vue-speech-transcription"><icon name="github" scale="1.5"/> github</a>
       </div>
     </div>
   </nav>
